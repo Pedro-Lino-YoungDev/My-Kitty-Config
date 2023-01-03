@@ -1,4 +1,4 @@
-# My-Kitty-Config
+# Minha configuração do Kitty terminal
 
 
 A configuração inclui apenas estilos(configurações visuais).
